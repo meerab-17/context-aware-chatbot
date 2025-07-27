@@ -1,0 +1,9 @@
+Python is a powerful programming language used for machine learning and web development.
+
+LangChain is a framework that helps you build applications powered by language models.
+
+FAISS is a library for efficient similarity search and clustering of dense vectors.
+
+Transformers from HuggingFace are widely used for NLP tasks like classification, translation, and question answering.
+
+Streamlit is a Python library that lets you build interactive web apps for data science with very little code.
