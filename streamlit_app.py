@@ -7,8 +7,6 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain.document_loaders import TextLoader
 import tempfile
 import os
-pip install sentence-transformer
-
 
 os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
 
